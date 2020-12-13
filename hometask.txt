@@ -1,0 +1,9 @@
+в локальном репозиторие в файле "human.txt" 12 строк(11 непустых)
+в удалённом репозиторие в файле "human.txt" 15 строк(14 непустых)
+
+
+в удалённом репозитории 3 коммита в ветви master: "init", "README added", "fix readme"
+в удалённом репозитории 2 коммита в ветви boots: "init", "boots"
+в удалённом репозитории 3 коммита в ветви buttons: "init", "README added", "dots", "Merge branch 'buttons' into demo", "Merge branch 'boots' into release", "boots", "heat added"
+в удалённом репозитории 7 коммитов в ветви demo: "init", "README added", "fix readme"
+в удалённом репозитории 2 коммита в ветви hat: "init", "heat added"
